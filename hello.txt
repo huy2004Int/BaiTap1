@@ -1,1 +1,4 @@
 Hello World is amazing!
+
+git config --global user.name "HuyDinh"
+git config --global user.email huydqds180257@fpt.edu.vn
